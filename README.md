@@ -3,7 +3,10 @@
 ## Project
 Build an interactive sales dashboard to display the results for third quarter sales.
 
-<img src="https://github.com/Sarah269/verbose-doodle/blob/main/ProductSalesAnalyzer/Sales_1.png" height=450>
+<img src="https://github.com/Sarah269/verbose-journey-psa/blob/main/Sales_1.png" height=450>
+
+## Interactive Dashboard Web Link
+[Product Sales Analyzer](https://sarah269.github.io/verbose-journey-psa/)
 
 ## Data
 - Generated
